@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdal Shakir</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Dialogflow, Blockchain and AWS**
+- 🌱 I’m currently learning **Web3.0 and AWS**
 
 - 📫 How to reach me **abdal_shakir715@hotmail.com**
 
